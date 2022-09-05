@@ -1,2 +1,4 @@
 # Instances-for-Resilient-Distribution-Network-Design-under-Stochastic-Facility-Interdiction-
 You can find the data used for the paper "Resilient Distribution Network Design under Stochastic Facility Interdiction" in this repository. 
+
+In each data set, the four rows indicate the number of facilities (J), the number of customers (K), the number of suppliers (I), and the weight of the post-interdiction cost in the objective function. The next two rows indicate the demand of customers (dk) and the installation cost of facilities (fj). The next I rows indicate the transportation cost from supplier i to facilities (c’ij) and the next J rows indicate the transportation cost from facility j to customers (cjk). The last three rows indicate the capacity of suppliers (q’i), capacity of facilities (qj), and the interdiction budget (B). 
